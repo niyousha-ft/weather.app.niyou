@@ -132,3 +132,12 @@ ul.city-info {
 .fa-wind {
   color: #8af9ff;
 }
+
+.myname {
+  font-size: 80%;
+  font-weight: 400;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-family: "Courgette", cursive;
+}
